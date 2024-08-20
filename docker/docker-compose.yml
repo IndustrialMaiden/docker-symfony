@@ -38,4 +38,4 @@ services:
       - mysql_data:/var/lib/mysql
 
 volumes:
-  db_data:
+  mysql_data:
